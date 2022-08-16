@@ -2,8 +2,8 @@
 #include <stddef.h>
 
 /**
- * bubble_sort - sort an array of integers using Bubble sort algorthim
- * @array: the array to sort
+ * bubble_sort - Sort an array of integers using Bubble sort algorthim
+ * @array: array to sort
  * @size: number of elements in the array
  */
 
